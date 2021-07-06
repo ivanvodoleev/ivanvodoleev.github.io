@@ -41,12 +41,11 @@ twitter_username: ivanvodoleev
 #youtube_username: Vodoleev I Sound Design
 #github_username:  ivanvodoleev
 
-
-
 #header_pages:
 #  - about.markdown
 #  - portfolio.markdown
 #  - blog.md
+#header_pages:
 
 # Build settings
 theme: minima
