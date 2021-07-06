@@ -19,24 +19,29 @@
 # in the templates via {{ site.myvariable }}.
 domain: ivanvodoleev.github.io       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
 title: Ivan Vodoleev
+author:
+  name: Ivan Vodoleev
+  picture: /assets/images/johndoe.png
 email: ivan.vodoleev@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Sound Design and audio implementation for Video Games
-
 baseurl: "" # the subpath of your site, e.g. /blog
+
 url: ivanvodoleev.github.io
 # url: https://ivanvodoleev.github.io # the base hostname & protocol for your site, e.g. http://example.com
+
 show_excerpts: false # set to true to show excerpts on the homepage
-minima:
-  skin: dark
+
+#minima:
+#  skin: dark
 
 # generate social links in footer
+linkedin_username: ivanvodoleev
 twitter_username: ivanvodoleev
-facebook_username: ivan.vodoleev
-instagram_username: zvookvo
-linkedin_username: ivan-vodoleev
-youtube_username: Vodoleev I Sound Design
-# github_username:  ivanvodoleev
+#instagram_username: ivan_vodoleev
+#facebook_username: ivanvodoleev
+#youtube_username: Vodoleev I Sound Design
+#github_username:  ivanvodoleev
 
 
 

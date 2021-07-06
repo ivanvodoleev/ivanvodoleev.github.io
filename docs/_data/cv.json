@@ -1,0 +1,87 @@
+{
+  "basics": {
+    "name": "Ivan Vodoleev",
+    "label": "Sound Designer",
+    "picture": "",
+    "email": "ivan.vodoleev@gmail.com",
+    "phone": "",
+    "website": "https://www.behance.net/zvookvo",
+    "summary": "I am sound designer for video games. Feel free to contact me.",
+    "location": {
+      "countryCode": "RU",
+      "address": ""
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "ivanvodoleev",
+        "url": "https://www.linkedin.com/in/ivanvodoleev/"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Freelancer ",
+      "endDate": "",
+      "highlights": [],
+      "position": "Sound Designer",
+      "startDate": "2018-05-31",
+      "summary": "Sound Design and Implementation for video game",
+      "website": "https://www.linkedin.com/company/freelancerforsoftware/"
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Уральский Государственный Технический Университет",
+      "area": "Радиотехника",
+      "studyType": "Бакалавр",
+      "startDate": "2014-12-31",
+      "endDate": "2019-12-31",
+      "gpa": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Sound Design",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Audio Implementation",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Game Audio",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Unreal Engine 4",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Unity",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Game Deveplopment",
+      "level": "",
+      "keywords": []
+    }
+  ],
+  "languages": [
+    {
+      "language": "ru",
+      "fluency": "Native Speaker"
+    }
+  ],
+  "interests": [],
+  "references": []
+}
