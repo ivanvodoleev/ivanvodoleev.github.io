@@ -33,7 +33,10 @@ header_pages:
 
 # Build settings
 theme: minima
-skin: dark
+
+minima:
+  skin: dark
+
 plugins:
   - jekyll-feed
 
