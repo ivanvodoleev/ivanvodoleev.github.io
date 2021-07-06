@@ -18,24 +18,23 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 domain: ivanvodoleev.github.io       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
-title: ivanvodoleev.github.io
+title: Ivan Vodoleev
 email: ivan.vodoleev@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Ivan Vodoleev - Game Audio Designer
+  Ivan Vodoleev - Sound Designer
 baseurl: "" # the subpath of your site, e.g. /blog
 url: https://ivanvodoleev.github.io # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: ivanvodoleev
 github_username:  ivanvodoleev
 
+
 header_pages:
   - about.markdown
   - portfolio.markdown
-
-# Build settings
-theme: minima
-
 minima:
   skin: dark
+# Build settings
+theme: minima
 
 plugins:
   - jekyll-feed
