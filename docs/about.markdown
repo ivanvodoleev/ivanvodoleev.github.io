@@ -18,7 +18,3 @@ You can find info about completed project - [here](https://ivanvodoleev.github.i
 #### Credits & Clients
 
 Read my list of testimonials, clients, and credits – [here](https://ivanvodoleev.github.io/credits/). 
-
-#### Download CV:
-
-Click to download – [here](https://ivanvodoleev.github.io/cv/).
