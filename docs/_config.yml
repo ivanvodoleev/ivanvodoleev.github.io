@@ -24,7 +24,8 @@ email: ivan.vodoleev@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Sound Design and audio implementation for Video Games
 baseurl: "" # the subpath of your site, e.g. /blog
-url: https://ivanvodoleev.github.io # the base hostname & protocol for your site, e.g. http://example.com
+url: ivanvodoleev.github.io
+# url: https://ivanvodoleev.github.io # the base hostname & protocol for your site, e.g. http://example.com
 
 minima:
   skin: dark
