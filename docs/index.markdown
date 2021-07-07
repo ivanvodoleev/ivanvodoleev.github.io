@@ -3,6 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: post
+title:  "Hello!"
 ---
 
 ### I create and implement sound for video games. 
