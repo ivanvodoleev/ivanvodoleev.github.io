@@ -4,7 +4,8 @@ title: About
 permalink: /about/
 ---
 
-I graduated from Ural Federal University with a degree in Radio Engineering.
+![Ivan Vodoleev](/assets/images/ivanvodoleev.png) | I graduated from Ural Federal University with a degree in Radio Engineering.
+
 I live on the Europe-Asia border, where I'm actively working as a sound designer.
 
 #### Portfolio
