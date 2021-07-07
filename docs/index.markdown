@@ -6,7 +6,7 @@ layout: post
 title:  "Hello!"
 ---
 
-![Ivan Vodoleev](/assets/images/1J93WxvoW41.png.png) 
+![Ivan Vodoleev](/assets/images/1J93WxvoW41.png) 
 
 ### I create and implement sound for video games. 
 
