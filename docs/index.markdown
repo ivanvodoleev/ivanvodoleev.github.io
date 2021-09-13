@@ -18,7 +18,7 @@ Email me if you are looking for a sound designer, I would be pleased to solve yo
 
 #### Portfolio
 
-You can find info about completed project - [here](https://ivanvodoleev.github.io/portfolio/).
+You can find info about completed projects - [here](https://ivanvodoleev.github.io/portfolio/).
 
 #### Credits & Clients
 
