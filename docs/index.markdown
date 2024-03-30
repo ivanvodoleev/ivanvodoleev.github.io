@@ -8,17 +8,17 @@ title:  "Hello!"
 
 ![Ivan Vodoleev](/assets/images/1J93WxvoW41.png) 
 
-### I create and implement sound for video games. 
+### I am a video game sound designer. 
 
-I graduated from Ural Federal University with a degree in Radio Engineering. 
+My role involves creating, tuning, and conveying atmosphere through sound. Feel free to reach out to me.
 
-Live on Montenegro, where I'm actively working as a sound designer. 
+Graduated from Ural Federal University with a degree in Radio Engineering.
 
-Email me if you are looking for a sound designer, I would be pleased to solve your sound related needs.
+Currently residing in Montenegro, where you actively work as a Technical Sound Designer.
 
 #### Portfolio
 
-You can find info about completed projects - [here](https://ivanvodoleev.github.io/portfolio/).
+You can find information about completed projects - [here](https://ivanvodoleev.github.io/portfolio/).
 
 #### Credits & Clients
 
