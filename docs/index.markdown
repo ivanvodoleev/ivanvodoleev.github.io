@@ -14,7 +14,7 @@ My role involves creating, tuning, and conveying atmosphere through sound. F
 
 Graduated from Ural Federal University with a degree in Radio Engineering.
 
-Currently residing in Montenegro, where you actively work as a Technical Sound Designer.
+Currently residing in Argentina, where you actively work as a Technical Sound Designer.
 
 #### Portfolio
 
